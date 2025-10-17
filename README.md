@@ -11,3 +11,7 @@ Features
 👍Secure and distributed checking
 
 👍 Lightweight, fast, and fully open source
+
+⚠️REQUIREMENTS⚠️
+
+PYTHON 3.11.8
